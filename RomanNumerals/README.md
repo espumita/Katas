@@ -2,13 +2,6 @@
 
 Info: [codingdojo](https://codingdojo.org/kata/RomanNumerals/)
 
-## About this Kata
-
-I wasn't there, but I believe this Kata was performed at XP2001 by Kent Beck. Here is [\[a video of Karl Scotland doing this Kata in Excel at agile 2008\]](http://www.infoq.com/presentations/TDD-Managers-Nicolette-Scotland)
-Here is [\[a video of JonJagger doing this Kata in Ruby using CyberDojo\]](http://vimeo.com/15104374)
-
-Difficulty - Easy.
-
 ## Problem Description
 
 The Romans were a clever bunch. They conquered most of Europe and ruled it for hundreds of years. They invented concrete and straight roads and even bikinis [\[1\]](http://sights.seindal.dk/sight/456_Roman_Villa_of_Piazza_Armerina.html). 
