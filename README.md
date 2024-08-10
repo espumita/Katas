@@ -4,3 +4,4 @@
 - [FizzBuzz](./FizzBuzz/)
 - [LeapYears](./LeapYears/)
 - [RomanNumerals](./RomanNumerals/)
+- [StringCalculator](./StringCalculator/)
