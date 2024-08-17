@@ -1,6 +1,7 @@
 # Coding Katas
 
 - [Bowling](./Bowling/)
+- [ElephantCarpaccio](./ElephantCarpaccio/)
 - [FizzBuzz](./FizzBuzz/)
 - [GildedRose](./GildedRose/)
 - [LeapYears](./LeapYears/) 
