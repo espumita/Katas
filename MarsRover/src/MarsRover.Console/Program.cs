@@ -35,7 +35,7 @@ IRobertCommand CommandFrom(ConsoleKey key) {
 void PrintMarsMap(MarsRover.MarsRover game) {
     Console.Clear();
     Console.OutputEncoding = System.Text.Encoding.UTF8;
-for (int i = 5; i > -5; i--) {
+    for (int i = 5; i > -5; i--) {
         for (int j = -5; j < 5; j++) {
             if (game.Map.CurrentLocation.Equals(new Coordinates(j, i))) PrintRover(game.Router.CurrentDirection);
             else {

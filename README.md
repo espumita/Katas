@@ -3,6 +3,7 @@
 - [Bowling](./Bowling/)
 - [ElephantCarpaccio](./ElephantCarpaccio/)
 - [FizzBuzz](./FizzBuzz/)
+- [GameOfLife](./GameOfLife/)
 - [GildedRose](./GildedRose/)
 - [LeapYears](./LeapYears/) 
 - [MarsRover](./MarsRover/) 

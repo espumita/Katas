@@ -1,4 +1,4 @@
-# String Calculator Kata
+# Elephant carpaccio Kata
 
 Info: [codingdojo](https://codingdojo.org/kata/elephant-carpaccio/)
 

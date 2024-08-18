@@ -1,4 +1,4 @@
-# Mars Rover Kata
+# Gilded rose Kata
 
 Info: [codingdojo](https://codingdojo.org/kata/gilded-rose/)
 
