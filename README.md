@@ -7,6 +7,7 @@
 - [GildedRose](./GildedRose/)
 - [LeapYears](./LeapYears/) 
 - [MarsRover](./MarsRover/) 
+- [Minesweeper](./Minesweeper/) 
 - [RomanNumerals](./RomanNumerals/)
 - [StringCalculator](./StringCalculator/)
 - [TripService](./TripService/)
