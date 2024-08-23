@@ -8,6 +8,7 @@
 - [LeapYears](./LeapYears/) 
 - [MarsRover](./MarsRover/) 
 - [Minesweeper](./Minesweeper/) 
+- [PokerHands](./PokerHands/) 
 - [RomanNumerals](./RomanNumerals/)
 - [StringCalculator](./StringCalculator/)
 - [TripService](./TripService/)
