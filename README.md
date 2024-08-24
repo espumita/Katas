@@ -1,4 +1,4 @@
-# Coding Katas
+# Coding Katas 🥷🏻
 
 - [Bowling](./Bowling/)
 - [ElephantCarpaccio](./ElephantCarpaccio/)
@@ -10,6 +10,7 @@
 - [Minesweeper](./Minesweeper/) 
 - [PokerHands](./PokerHands/) 
 - [RomanNumerals](./RomanNumerals/)
+- [RPGCombat](./RPGCombat/)
 - [StringCalculator](./StringCalculator/)
 - [Tennis](./Tennis/)
 - [TicTacToe](./TicTacToe/)
