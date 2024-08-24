@@ -11,4 +11,5 @@
 - [PokerHands](./PokerHands/) 
 - [RomanNumerals](./RomanNumerals/)
 - [StringCalculator](./StringCalculator/)
+- [Tennis](./Tennis/)
 - [TripService](./TripService/)
