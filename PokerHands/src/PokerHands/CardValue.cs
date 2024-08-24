@@ -2,7 +2,7 @@
 
 public enum CardValue {
     Two2,
-    Tree3,
+    Three3,
     Four4,
     Five5,
     Six6,

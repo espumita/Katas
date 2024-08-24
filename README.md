@@ -12,4 +12,5 @@
 - [RomanNumerals](./RomanNumerals/)
 - [StringCalculator](./StringCalculator/)
 - [Tennis](./Tennis/)
+- [TicTacToe](./TicTacToe/)
 - [TripService](./TripService/)

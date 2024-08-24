@@ -18,7 +18,7 @@ public class PokerGameTests {
 
         game.AddPlayerHand("Player2", new List<Card> {
             new Card(CardValue.Two2, Suit.Clubs),
-            new Card(CardValue.Tree3, Suit.Hearts),
+            new Card(CardValue.Three3, Suit.Hearts),
             new Card(CardValue.Four4, Suit.Spades),
             new Card(CardValue.Eight8, Suit.Clubs),
             new Card(CardValue.Ace, Suit.Hearts)
@@ -45,8 +45,8 @@ public class PokerGameTests {
         game.AddPlayerHand("Player2", new List<Card> {
             new Card(CardValue.Two2, Suit.Clubs),
             new Card(CardValue.Two2, Suit.Spades),
-            new Card(CardValue.Tree3, Suit.Spades),
-            new Card(CardValue.Tree3, Suit.Clubs),
+            new Card(CardValue.Three3, Suit.Spades),
+            new Card(CardValue.Three3, Suit.Clubs),
             new Card(CardValue.Ace, Suit.Hearts)
         });
 
@@ -57,7 +57,7 @@ public class PokerGameTests {
     }
 
     [Test]
-    public void tree_of_a_kind_wins_over_two_pairs() {
+    public void thre_of_a_kind_wins_over_two_pairs() {
         var game = new PokerGame();
 
         game.AddPlayerHand("Player1", new List<Card> {
@@ -71,8 +71,8 @@ public class PokerGameTests {
         game.AddPlayerHand("Player2", new List<Card> {
             new Card(CardValue.Four4, Suit.Clubs),
             new Card(CardValue.Four4, Suit.Spades),
-            new Card(CardValue.Tree3, Suit.Spades),
-            new Card(CardValue.Tree3, Suit.Clubs),
+            new Card(CardValue.Three3, Suit.Spades),
+            new Card(CardValue.Three3, Suit.Clubs),
             new Card(CardValue.Ace, Suit.Hearts)
         });
 
@@ -114,7 +114,7 @@ public class PokerGameTests {
 
         game.AddPlayerHand("Player1", new List<Card> {
             new Card(CardValue.Two2, Suit.Hearts),
-            new Card(CardValue.Tree3, Suit.Hearts),
+            new Card(CardValue.Three3, Suit.Hearts),
             new Card(CardValue.Ace, Suit.Hearts),
             new Card(CardValue.Nine9, Suit.Hearts),
             new Card(CardValue.King, Suit.Hearts)
@@ -140,7 +140,7 @@ public class PokerGameTests {
 
         game.AddPlayerHand("Player1", new List<Card> {
             new Card(CardValue.Two2, Suit.Hearts),
-            new Card(CardValue.Tree3, Suit.Hearts),
+            new Card(CardValue.Three3, Suit.Hearts),
             new Card(CardValue.Ace, Suit.Hearts),
             new Card(CardValue.Nine9, Suit.Hearts),
             new Card(CardValue.King, Suit.Hearts)
